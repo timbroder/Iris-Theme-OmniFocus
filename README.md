@@ -13,6 +13,10 @@ Don't hesitate to give me your suggestions. I am mainly having fun playing with 
 * Soon due are blue
 * Left sidebar is darker to keep focus on the task even when it's displayed.
 
+### Download
+
+Click <a href="https://raw.githubusercontent.com/timbroder/Iris-Theme-OmniFocus/master/Iris.ofocus-style" download>here</a> to download
+
 ### Todo
 * Font! When I will get the time, I will put some love into the fonts... there is alot of bold where it shouldn't.
 * Inspector. For now, it's the customization possibility of the inspector is really limited but will update it as soon as possible.
